@@ -1,0 +1,14 @@
+Z:\SklepDb\Sklep\bin\Debug\Sklep.exe.config
+Z:\SklepDb\Sklep\bin\Debug\Sklep.exe
+Z:\SklepDb\Sklep\bin\Debug\Sklep.pdb
+Z:\SklepDb\Sklep\obj\Debug\Sklep.csprojResolveAssemblyReference.cache
+Z:\SklepDb\Sklep\obj\Debug\Sklep.Form1.resources
+Z:\SklepDb\Sklep\obj\Debug\Sklep.Properties.Resources.resources
+Z:\SklepDb\Sklep\obj\Debug\Sklep.csproj.GenerateResource.Cache
+Z:\SklepDb\Sklep\obj\Debug\Sklep.csproj.CoreCompileInputs.cache
+Z:\SklepDb\Sklep\obj\Debug\Sklep.exe
+Z:\SklepDb\Sklep\obj\Debug\Sklep.pdb
+Z:\SklepDb\Sklep\bin\Debug\EntityFramework.dll
+Z:\SklepDb\Sklep\bin\Debug\EntityFramework.SqlServer.dll
+Z:\SklepDb\Sklep\bin\Debug\EntityFramework.xml
+Z:\SklepDb\Sklep\bin\Debug\EntityFramework.SqlServer.xml
